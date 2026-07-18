@@ -21,7 +21,7 @@ spec:
       containers:
         - name: real-estate
 
-          image: ranjitdockerdev/real-estate:41b934fcf12d0d6662855d094082cf5500d32de8
+          image: ranjitdockerdev/real-estate:cabf40ec215fa0f9a5587a06e7d868426a41d6c4
 
           ports:
             - containerPort: 80
